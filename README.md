@@ -5,7 +5,7 @@ Im hamza, passionate frontend developer from Morocco i love coding and im seekin
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [hamzahamani2004@gmail.com](mailto:hamzahamani2004@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning React
 
 <a href="https://www.github.com/HamzaHamani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HamzaHamani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
