@@ -1,7 +1,7 @@
 Hi 👋 My name is Hamza Hamani
 =============================
 
-Im hamza, passionate frontend developer from Morocco i love coding and im seeking to learn new stuff
+passionate frontend developer from Morocco i love coding and im seeking to learn new stuff
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [hamzahamani2004@gmail.com](mailto:hamzahamani2004@gmail.com)
