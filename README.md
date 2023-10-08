@@ -6,7 +6,7 @@ Passionate developer from Morocco i love coding and im seeking to learn new stuf
 
 - 🌱 I’m currently learning **React.JS and CS50 coruse**
 
-- 💬 Ask me about **Javascript, React.JS, HTML/CSS **
+- 💬 Ask me about **Javascript, React.JS, HTML/CSS**
 
 - 📫 How to reach me **hamzahamani2004@gmail.com**
 
