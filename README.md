@@ -1,9 +1,8 @@
 Hi 👋 My name is Hamza Hamani
 =============================
 
-passionate developer from Morocco i love coding and im seeking to learn new stuff
+Passionate developer from Morocco i love coding and im seeking to learn new stuff
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzahamani" alt="hamzahamani" /></a> </p>
 
 - 🌱 I’m currently learning **React.JS and CS50 coruse**
 
