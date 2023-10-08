@@ -27,5 +27,3 @@ src="https://img.shields.io/github/followers/HamzaHamani?logo=github&style=for-t
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahamani&" alt="hamzahamani" /></p>
-
