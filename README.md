@@ -4,7 +4,7 @@ Hi 👋 My name is Hamza Hamani
 Passionate developer from Morocco i love coding and im seeking to learn new stuff
 
 
-- 🌱 I’m currently learning **React.JS, Algorithms and Data Structure**
+- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **Javascript, React.JS, HTML/CSS**
 
