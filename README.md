@@ -4,7 +4,7 @@ Hi 👋 My name is Hamza Hamani
 Passionate full-stack web developer from Morocco i love coding and im seeking to learn new stuff
 
 - 📫 How to reach me **haamzahaamani@gmail.com**
-- My Portfolio https://haamza.netlify.app/
+- My Portfolio hamzahamani.tech
 
 
 <a href="https://www.github.com/HamzaHamani" target="_blank" rel="noreferrer"><img
